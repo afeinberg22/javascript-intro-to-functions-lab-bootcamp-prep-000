@@ -14,5 +14,5 @@ function logWhisper(string) {
 }
 logShout("string")
 
-
+function
 
