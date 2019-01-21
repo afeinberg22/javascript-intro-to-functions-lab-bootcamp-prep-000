@@ -17,7 +17,8 @@ logShout("string")
 function sayHitoGrandma(string) {
   var uppercase = "HELLO"
   var lowercase = "hello"
-  if (string === lowercase) 
-  }
+}
+  if (string === lowercase) {
+  return
 }
 
