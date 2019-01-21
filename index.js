@@ -15,6 +15,6 @@ function logWhisper(string) {
 logShout("string")
 
 function sayHitoGrandma(string) {
-  var upperas
+  var uppercase = 
 }
 
