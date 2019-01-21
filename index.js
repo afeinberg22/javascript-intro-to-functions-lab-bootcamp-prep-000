@@ -8,5 +8,5 @@ function logShout(string) {
   console.log(string)
 }
 
-logShout(string).toUpperCase()
+
 
